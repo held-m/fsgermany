@@ -1,6 +1,6 @@
 server {
     listen 80;
-    #server_name fsgermany.de www.fsgermany.de;
+    server_name fsgermany.info www.fsgermany.info;
 
     root /var/www/html/;
 
